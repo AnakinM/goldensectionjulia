@@ -1,0 +1,2 @@
+# Golden section method implementation
+It's a method for finding an extremum (minimum or maximum) of a function inside a specified interval. The method operates by successively narrowing the range of values on the specified interval, which makes it relatively slow.
